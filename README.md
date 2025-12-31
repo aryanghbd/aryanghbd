@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @aryanghbd - I'm a recent graduate of Computer Engineering (4Y MEng) from Imperial College London.
-- 👀 I’m interested in low-latency C/C++, high-performance and embedded computing along with FPGAs, distributed systems and full-stack development on the side.
-- 🌱 I’m currently learning Swift, delving into Rust and C# for fun.
+- 👋 Hi, I’m @aryanghbd - I'm a recent graduate of EECS (4Y MEng) from Imperial College London.
+- 👀 I’m interested in low-latency C/C++, high-performance and embedded computing along with FPGAs and machine learning.
+- 🌱 Languages: C++, C#, Python, Rust, Java, JavaScript (incl. React, Node, TS, etc).
 - 💞️ I’m looking to collaborate on anything and everything.
 - 📫 How to reach me - Reach out to me on LinkedIn (Aryan Ghobadi), or just to chat really, always looking to make some new friends in the industry :)
 
