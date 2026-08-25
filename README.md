@@ -1,6 +1,6 @@
 - Software Engineer @ Certara AI
 - Prev. EECS, Imperial College London.
-- C++/Python/Java, and other stuff when I get bored.
+- C(++)/Python/Java, and other stuff when I get bored.
 
 <!---
 aryanghbd/aryanghbd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
