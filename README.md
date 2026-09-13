@@ -1,6 +1,7 @@
 - Software Engineer @ Certara AI
 - Prev. EECS, Imperial College London.
-- C++/Python/Java...sometimes Rust..
+- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)](https://github.com)
+
 
 <!---
 aryanghbd/aryanghbd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
