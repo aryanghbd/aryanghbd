@@ -1,7 +1,6 @@
 - Software Engineer @ Certara AI
 - Prev. EECS, Imperial College London.
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryanghbd&layout=compact)](https://github.com)
+- C++, Rust, Python
 
 
 <!---
